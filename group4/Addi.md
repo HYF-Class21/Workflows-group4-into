@@ -1,6 +1,6 @@
 # Welcome to Addi's README file
 
-## You are here to get to know me better so here you go:
+## You are here to get to know me better so here you go
 
 My name is Addi. I'm 29 years old. I'd like to become a Full Stack developer in
 the future. I'm a friendly, easygoing guy who like to laugh and have a good
