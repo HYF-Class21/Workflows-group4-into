@@ -1,6 +1,7 @@
 # Group 4 Intros
 
-For this project each of our members cloned the repository of a template project
-after which we added our individual markdown files. After running checks on our
-files, we pushed our files to github and then successfuly merged to the main
-branch.
+We are group 4 of HYF class 21, we love coding , our nice group consits of the following members :
+
+- [Addi](https://github.com/HYF-Class21/workflows-group4-intro/blob/master/group4/addi.md)
+- [Alex](https://github.com/HYF-Class21/workflows-group4-intro/blob/master/group4/alex.md)
+- [Arseniia](https://github.com/HYF-Class21/workflows-group4-intro/blob/master/group4/arseniia.md)
