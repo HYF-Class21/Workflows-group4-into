@@ -1,14 +1,13 @@
-# Group 4 Intros
+# Group 4 class 21
 
-## This project was done by
+Hello there , we are group 4 of class 21, we love coding , our lovely group
+consists of the following members :
 
-- [Addi](/group4/addi.md)
-- [Alex](/group4/alex.md)
-- [Arseniia](/group4/arseniia.md)
+- [Addi](./group4/addi.md)
+- [Alex](./group4/alex.md)
+- [Arseniia](./group4/arseniia.md)
 
-## What did we do
+---
 
-For this project each of our members cloned the repository of a template
-project. Then we added our individual markdown files. We ran the checks commands
-on our files, Pushed our files to github and then successfuly merged to the main
-branch.
+![in code we trust](./group4/img/code.jpg)
+
