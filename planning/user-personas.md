@@ -1,18 +1,15 @@
-# User Personas
-
-<!-- some introduction -->
-
----
+# User Personas: Nature Enthusiast
 
 <!-- a persona -->
 
-## Their Role
+## The "All About Trees" project team is composed of experts in ecology, and community
 
-- **Bio**:
-- **Needs/Goals**:
-- **Frustrations**:
-- **Scenario 1**:
+- **belkis**
 
----
+- **Interest in nature people need to have more knowledge about trees.**
+
+- **Misinformation about trees, which lead toimproper practices.**
+
+- **Appeals to the "All About Trees" project team for help in protecting the trees**
 
 <!-- more personas ... -->
